@@ -21,12 +21,12 @@ We welcome contributions from the community! If you're interested in collaborati
 
 ## Contact Us
 
-- Email: [info@h-move-lab.org](mailto:info@h-move-lab.org)
-- Website: [https://www.h-move-lab.org](https://www.h-move-lab.org)
+- Email: [paolo.tasca@polito.it](mailto:paolo.tasca@polito.it)
+- Website: available soon...
 
 Follow us on social media for updates and announcements!
 
-- Twitter: [@H_MOVE_LAB](https://twitter.com/H_MOVE_LAB)
-- LinkedIn: [H-MOVE-LAB](https://www.linkedin.com/company/h-move-lab)
+- ResearchGate: [H-MOVE-LAB](https://www.researchgate.net/lab/Andrea-Cereatti-Lab)
+- LinkedIn: available soon...
 
 Thank you for your interest in H-MOVE-LAB! 🌟
