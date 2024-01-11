@@ -26,7 +26,7 @@ We welcome contributions from the community! If you're interested in collaborati
 
 Follow us on social media for updates and announcements!
 
-- ResearchGate: [H-MOVE-LAB](https://www.researchgate.net/lab/Andrea-Cereatti-Lab)
+- ResearchGate: [Andrea Cereatti's Lab](https://www.researchgate.net/lab/Andrea-Cereatti-Lab)
 - LinkedIn: available soon...
 
 Thank you for your interest in H-MOVE-LAB! 🌟
