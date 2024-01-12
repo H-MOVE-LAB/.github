@@ -11,7 +11,7 @@ H-MOVE-LAB is a laboratory dedicated to advancing the field of human motion anal
 
 Explore our repositories to find open-source projects, research code, and tools developed by the H-MOVE-LAB team.
 
-1. [imu_head_app](https://github.com/H-MOVE-LAB/icd_head_app): A Python application of a deep learning TCN for gait events detection with a head-worn IMU.
+1. [imu_head_app](https://github.com/H-MOVE-LAB/icd_head_app): Application of a deep learning TCN for initial contacts detection in real-world conditions with a head-worn IMU.
  
    <!-- Add more repositories as needed -->
 
