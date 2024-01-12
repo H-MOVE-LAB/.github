@@ -11,8 +11,8 @@ H-MOVE-LAB is a laboratory dedicated to advancing the field of human motion anal
 
 Explore our repositories to find open-source projects, research code, and tools developed by the H-MOVE-LAB team.
 
-1. [ProjectA](https://github.com/H-MOVE-LAB/ProjectA): Description of ProjectA.
-2. [ProjectB](https://github.com/H-MOVE-LAB/ProjectB): Description of ProjectB.
+1. [imu_head]([https://github.com/H-MOVE-LAB/ProjectA](https://github.com/H-MOVE-LAB/icd_head_app)): A Python application of a deep learning TCN for gait events detection with a head-worn IMU.
+ 
    <!-- Add more repositories as needed -->
 
 ## Contributions
@@ -21,7 +21,10 @@ We welcome contributions from the community! If you're interested in collaborati
 
 ## Contact Us
 
-- Email: [paolo.tasca@polito.it](mailto:paolo.tasca@polito.it)
+- Email:
+  [paolo.tasca@polito.it](mailto:paolo.tasca@polito.it)
+  [andrea.cereatti@polito.it](mailto:andrea.cereatti@polito.it)
+
 - Website: available soon...
 
 Follow us on social media for updates and announcements!
