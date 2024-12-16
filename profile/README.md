@@ -22,9 +22,9 @@ We welcome contributions from the community! If you're interested in collaborati
 ## Contact Us
 
 - Email:
- -- Principal Investigator: [andrea.cereatti@polito.it](mailto:andrea.cereatti@polito.it)
- -- Organization owner and administrator: [paolo.tasca@polito.it](mailto:paolo.tasca@polito.it)
- -- Senior Researchers: [diletta.balta@polito.it](mailto:diletta.balta@polito.it), [rachele.rossanigo@polito.it](mailto:rachele.rossanigo@polito.it), [daniele.fortunato@polito.it](mailto:daniele.fortunatoa@polito.it)
+  - Principal Investigator: [andrea.cereatti@polito.it](mailto:andrea.cereatti@polito.it)
+  - Organization owner and administrator: [paolo.tasca@polito.it](mailto:paolo.tasca@polito.it)
+  - Senior Researchers: [diletta.balta@polito.it](mailto:diletta.balta@polito.it), [rachele.rossanigo@polito.it](mailto:rachele.rossanigo@polito.it), [daniele.fortunato@polito.it](mailto:daniele.fortunatoa@polito.it)
   
   
 
