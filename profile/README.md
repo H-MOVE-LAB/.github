@@ -22,7 +22,8 @@ We welcome contributions from the community! If you're interested in collaborati
 ## Contact Us
 
 - Email:
-  [paolo.tasca@polito.it](mailto:paolo.tasca@polito.it)\n
+  [paolo.tasca@polito.it](mailto:paolo.tasca@polito.it)
+  
   [andrea.cereatti@polito.it](mailto:andrea.cereatti@polito.it)
 
 - Website: available soon...
