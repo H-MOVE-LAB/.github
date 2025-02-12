@@ -11,8 +11,8 @@ H-MOVE-LAB is a laboratory dedicated to advancing the field of human motion anal
 
 Explore our repositories to find open-source projects, research code, and tools developed by the H-MOVE-LAB team.
 
-1. [headgait](https://github.com/H-MOVE-LAB/headgait): Application of a machine learning framework for initial contacts detection and gait speed estimation in real-world conditions with a head-worn IMU.
- 
+1. [headgait](https://github.com/H-MOVE-LAB/headgait): Deep and Machine Learning Models for Initial Contacts Detection and Gait Speed Estimation with a Head-Worn Inertial Measurement Unit
+2. [run_imu](https://github.com/H-MOVE-LAB/run_imu): Template-based Method for the Estimation of Running Temporal Parameters using Foot-Mounted Inertial Sensors.
    <!-- Add more repositories as needed -->
 
 ## Contributions
@@ -28,7 +28,8 @@ We welcome contributions from the community! If you're interested in collaborati
     [marco.caruso@polito.it](mailto:marco.caruso@polito.it)  
     [diletta.balta@polito.it](mailto:diletta.balta@polito.it)  
     [rachele.rossanigo@polito.it](mailto:rachele.rossanigo@polito.it)  
-    [daniele.fortunato@polito.it](mailto:daniele.fortunatoa@polito.it)  
+    [daniele.fortunato@polito.it](mailto:daniele.fortunato@polito.it)
+    [alessandra.audisio@polito.it](mailto:alessandra.audisio@polito.it)  
 
 - Website: available soon...
 
